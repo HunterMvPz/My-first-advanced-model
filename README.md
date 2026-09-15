@@ -35,4 +35,8 @@ At this point i had already finished the base modelling for the sword with very 
 
 And finally it came to texturing, at this point i was still a beginner in substance painter so i mainly relied on smart materials and tweaking them from there, and although the handle didn't look great i was happy with the overall result of the sword.
 
+**Current status?**
+
+I would like to finish it off some day, but at the moment i am looking into different models with more finalized texturing
+
 
