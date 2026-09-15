@@ -2,6 +2,7 @@
 
 
 **What is the model?**
+
 <img width="250" height="250" alt="image_2_0352" src="https://github.com/user-attachments/assets/d5f83db6-9b74-4787-802a-605e7ee79590" />
 
 This is a sword concept i found here, i mainly wanted to use it to learn more complex hard surface modeling because of how the structure of the blade is, and i always like a challenge.
