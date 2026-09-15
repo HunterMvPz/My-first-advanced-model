@@ -1,5 +1,4 @@
 # My-first-advanced-model
-**My First Model**
 
 **What is the model?**
 <img width="250" height="250" alt="image_2_0352" src="https://github.com/user-attachments/assets/d5f83db6-9b74-4787-802a-605e7ee79590" />
