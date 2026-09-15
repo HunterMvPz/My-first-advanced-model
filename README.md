@@ -12,6 +12,8 @@ This is a sword concept i found here, i mainly wanted to use it to learn more co
 - Substance Painter
 
  **What steps did i take?**
+
+ 
 **Block out**
 
 
