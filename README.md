@@ -2,7 +2,7 @@
 **My First Model**
 
 **What is the model?**
-<img width="600" height="721" alt="image_2_0352" src="https://github.com/user-attachments/assets/d5f83db6-9b74-4787-802a-605e7ee79590" />
+<img width="250" height="250" alt="image_2_0352" src="https://github.com/user-attachments/assets/d5f83db6-9b74-4787-802a-605e7ee79590" />
 
 This is a sword concept i found here, i mainly wanted to use it to learn more complex hard surface modeling because of how the structure of the blade is, and i always like a challenge.
 
@@ -11,8 +11,7 @@ This is a sword concept i found here, i mainly wanted to use it to learn more co
 - Substance Painter
 
  **What steps did i take?**
-
-** Block out**
+**Block out**
 <img width="750" height="836" alt="image_1_7315" src="https://github.com/user-attachments/assets/c05f66c1-5ec4-48e9-9d8c-dda86f31ac38" />
 
 This is the first blockout of the model, it started with doing the lineout for the silhouette of the sword using vertexes, i then figured out the cleanest approach to the topology for the model.
