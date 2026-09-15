@@ -20,7 +20,7 @@ This is a sword concept i found here, i mainly wanted to use it to learn more co
 This is the first blockout of the model, it started with doing the lineout for the silhouette of the sword using vertexes, i then figured out the cleanest approach to the topology for the model.
 
 **High poly to low poly bake/Finished modeling**
-<img width="850" height="1140" alt="image_8768" src="https://github.com/user-attachments/assets/0efadf45-bf24-4eae-bfe5-e3aff39381a3" />
+<img width="425" height="425" alt="image_8768" src="https://github.com/user-attachments/assets/0efadf45-bf24-4eae-bfe5-e3aff39381a3" />
 
 At this point i had already finished the base modelling for the sword with very clean topology, ending out in 2k tri count, and i also before doing the high poly to low poly bake, sculpted runes into the sword, so they came out nicely on the normals
 
