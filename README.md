@@ -29,7 +29,7 @@ At this point i had already finished the base modelling for the sword with very 
 
 **Texturing**
 
-<img width="400" height="425" alt="image_3547" src="https://github.com/user-attachments/assets/485430fc-d110-48e4-a65a-060fb7493a9d" />
+<img width="300" height="425" alt="image_3547" src="https://github.com/user-attachments/assets/485430fc-d110-48e4-a65a-060fb7493a9d" />
 
 And finally it came to texturing, at this point i was still a beginner in substance painter so i mainly relied on smart materials and tweaking them from there, and although the handle didn't look great i was happy with the overall result of the sword.
 
