@@ -13,6 +13,8 @@ This is a sword concept i found here, i mainly wanted to use it to learn more co
 
  **What steps did i take?**
 **Block out**
+
+
 <img width="425" height="425" alt="image_1_7315" src="https://github.com/user-attachments/assets/c05f66c1-5ec4-48e9-9d8c-dda86f31ac38" />
 
 This is the first blockout of the model, it started with doing the lineout for the silhouette of the sword using vertexes, i then figured out the cleanest approach to the topology for the model.
